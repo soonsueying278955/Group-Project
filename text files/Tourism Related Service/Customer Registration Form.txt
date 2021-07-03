@@ -1,0 +1,10 @@
+Anne  |  Chin  |  42  |  Female  |  0145807930  |  annechin@gmail.com  |  Ipoh  |  Perak  |  
+_____________________________________________________________________
+Daniel  |  Kong Shi Hang  |  26  |  Male  |  0125678520  |  daneilkongsh@gmail.com  |  George Town  |  Pulau Pinang  |  
+_____________________________________________________________________
+Steven  |  Liew Guan Yuan  |  30  |  Male  |  0167805261  |  stevenliew@gmail.com  |  Alor Setar  |  Kedah  |  
+_____________________________________________________________________
+Tan  |  Kok Leong  |  24  |  Male  |  0197804560  |  kokleongtan@gmail.com  |  Cameron Highlands  |  Pahang  |  
+_____________________________________________________________________
+Leong  |  Mei Yun  |  22  |  Female  |  0167845690  |  meiyun@gmail.com  |  Cameron Highlands  |  Pahang  |  
+_____________________________________________________________________

@@ -1,0 +1,6 @@
+Jack  000123045678  21  Male  Waiter  0198765434  J12  Jack66@gmail.com  Part Time  Local  Below RM2000  
+________
+Ricardo  78021005676869  42  Male  Waiter  0167896444  R60  Rival54@gmail.com  Part Time  Foreign  Below RM2000  
+________
+Yilly  970624012344  24  Female  Manager  0126657765  Y23  Yillychew112@gmail.com  Contract  Local  RM2000 to RM5000  
+________

@@ -1,0 +1,6 @@
+2021  February  23  Profit  300000  Jack  980723089867  01122333345  jack1223@gmail.com  
+________
+2021  April  1  Expenditure  10000  Hailey  000123056474  01135667890  Hailey666@gmail.com  
+________
+2021  June  26  Income  45000  Lucas  000114067645  01132256780  Lucasxx1@gmail.com  
+________

@@ -1,0 +1,6 @@
+2  1 hour(s) and 0 minute(s)  300  50  Broken plate  Card  50  
+________
+3  1 hour(s) and 0 minute(s)  450      Cash  -  
+________
+2  2 hour(s) and 0 minute(s)  600      Mobile Payment  100  
+________

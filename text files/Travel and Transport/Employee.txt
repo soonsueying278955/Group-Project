@@ -1,0 +1,10 @@
+1  A  Lee  22  AB  12345  0123456789  2000  Manager  
+________
+2  B  Lee  22  AB  12345  0123456789  1800  Tour Guide  
+________
+3  C  Lee  22  AB  12345  0123456789  1550  Counter Attendant  
+________
+4  D  Lee  22  AB  12345  0123456789  1350  Driver  
+________
+5  E  Lee  22  AB  12345  0123456789  1200  Cleaner  
+________
