@@ -1,0 +1,10 @@
+Anne Chin  |  Female  |  0145807930  |  annechin@gmail.com  |  Health Tourism  |  Dentistry  |  1000.00  |  5  |  1  |  20%  |  4000.00  |  
+_____________________________________________________________________
+Daniel Kong Shi Han  |  Male  |  0125678520  |  danielkongsh@gmail.com  |  Sport Tourism  |  Snorkeling  |  4000.00  |  20  |  5  |  20%  |  320000.00  |  
+_____________________________________________________________________
+Steven Liew Guan Yuan  |  Male  |  0167805261  |  stevenliew@gmail.com  |  Sport Tourism  |  Kayaking  |  3900.00  |  15  |  8  |  20%  |  374400.00  |  
+_____________________________________________________________________
+Tan Kok Leong  |  Male  |  0197804560  |  kokleongtan@gmail.com  |  Cultural Tourism  |  Museums  |  5000.00  |  20  |  10  |  20%  |  800000.00  |  
+_____________________________________________________________________
+Leong Mei Yun  |  Female  |  0167845690  |  meiyun@gmail.com  |  Health Tourism  |  Cardiac Surgery  |  4500.00  |  25  |  1  |  20%  |  90000.00  |  
+_____________________________________________________________________
