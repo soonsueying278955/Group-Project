@@ -85,7 +85,7 @@ public class BookingSystem extends JFrame {
 		
 		JLabel lblBooking = new JLabel("Booking Form");
 		lblBooking.setFont(new Font("Pristina", Font.BOLD, 65));
-		lblBooking.setBounds(409, 10, 400, 84);
+		lblBooking.setBounds(409, 10, 345, 84);
 		panel_1.add(lblBooking);
 		
 		JPanel panel_2 = new JPanel();
@@ -393,7 +393,7 @@ public class BookingSystem extends JFrame {
 						TotalIncome = 0;
 						
 						for(int i=0; i<model.getRowCount(); i++) {
-							double income = Double.parseDouble(model.getValueAt(i, 9).toString());
+							double income = Double.parseDouble(model.getValueAt(i, 10).toString());
 							TotalIncome = income + TotalIncome;
 						}
 				}
@@ -421,6 +421,7 @@ public class BookingSystem extends JFrame {
 						comboBoxService.getSelectedItem(),
 						textFieldPrice.getText(),
 						textFieldHour.getText(),
+						textFieldQuantity.getText(),
 						textFieldDiscount.getText(),
 						textFieldTotalPrice.getText(),
 						payment.getSelection().getActionCommand(),
@@ -450,6 +451,7 @@ public class BookingSystem extends JFrame {
 				comboBoxService.setSelectedItem("Please Select");
 				textFieldPrice.setText("");
 				textFieldHour.setText("");
+				textFieldQuantity.setText("");
 				textFieldDiscount.setText("");
 				textFieldTotalPrice.setText("");
 				payment.clearSelection();
@@ -475,9 +477,9 @@ public class BookingSystem extends JFrame {
 			    	model.setValueAt(comboBoxService.getSelectedItem(), i, 5);
 			    	model.setValueAt(textFieldPrice.getText(), i, 6);
 			    	model.setValueAt(textFieldHour.getText(), i, 7);
-			    	model.setValueAt(textFieldDiscount.getText(), i, 8);
-			    	model.setValueAt(textFieldTotalPrice.getText(), i, 9);
-			    	model.setValueAt(payment.getSelection().getActionCommand(), i, 10);
+			    	model.setValueAt(textFieldQuantity.getText(), i, 8);
+			    	model.setValueAt(textFieldDiscount.getText(), i, 9);
+			    	model.setValueAt(textFieldTotalPrice.getText(), i, 10);
 			    	
 					JOptionPane.showMessageDialog(null, "Update Successfully");
 			    }
